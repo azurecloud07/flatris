@@ -1,0 +1,5 @@
+"start":
+"node dist/src"
+
+"start:env":
+"env-cmd node dist/src"
